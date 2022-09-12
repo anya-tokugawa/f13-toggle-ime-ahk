@@ -16,7 +16,10 @@ F13キーでIMEをtoggleするように仕掛けたモノ。
 
 
 1. F13キーを任意のキーボードマクロやフットペダル、キーボードレジストリ置換ツールで設定。
-2. https://github.com/anya-tokugawa/f13-toggle-ime-ahk/releases/download/untagged-2ac579b1ac65f88544b0/f13-toggle-ime-ahk.exe からダウンロード
+2. 下記 からダウンロード
+
+https://github.com/anya-tokugawa/f13-toggle-ime-ahk/releases/download/v1/f13-toggle-ime-ahk.exe
+
 3. ファイルを指定して実行で、`shell:startup` を開き、ダウンロードしたexeを放り込む。
 4. 次回起動時に自動的に実行される。現在実行したい場合は、ダブルクリックして実行。
 
